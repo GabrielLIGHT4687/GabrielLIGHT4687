@@ -1,4 +1,4 @@
-🇧🇷 \'-'/
+🇧🇷 '-'
 - 👋 Hi, I’m @GabrielLIGHT4687
 - 👀 I’m interested in programação
 - 🐍 I’m currently learning python

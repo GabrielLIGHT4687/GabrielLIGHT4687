@@ -1,7 +1,8 @@
+🇧🇷 \'-'/
 - 👋 Hi, I’m @GabrielLIGHT4687
 - 👀 I’m interested in programação
 - 🐍 I’m currently learning python
-- 📖 eu pretendo aprender muito aqui, e
-  Fazer vários projetos!
+- 📖 I intend to learn a lot here, and do several projects
 
-Estou aprendendo programação desde o começo desse ano(2022)
+I've been learning programming since the beginning of this year(2022)
+

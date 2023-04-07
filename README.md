@@ -1,8 +1,22 @@
 🇧🇷 '-'
-- 👋 Hi, I’m @GabrielLIGHT4687
-- 👀 I’m interested in programação
-- 🐍 I’m currently learning python
-- 📖 I intend to learn a lot here, and do several projects
+-<h1>Oi,meu nome é...</h1> <h2>Gabriel Luz</h2> 
+- Desenvolvedor C# .NET 5/6;
+- python basico/intermediario; 
+- iniciante em web(js,C# asp.net,html,css) 
+- estudante de CyberSecurity
 
-I've been learning programming since the beginning of this year(2022)
+
+<br/>
+
+<details>
+  
+<h4> Foco atual</h4>
+  
+  - C#
+  - GameDev
+  - CyberSecurity
+  
+</details>
+
+<br/>
 
